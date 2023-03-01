@@ -1,0 +1,38 @@
+*,
+*:before
+*:after {
+ padding: 0%;
+ margin: 0%;
+ box-sizing: border-box;
+}
+.wrapper{
+    height: 4vh;
+    width: 100%;
+    display: flex;
+    background-color: #c2c2d6;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 0%;
+}
+.dund{
+    height: 96vh;
+    width: 100%;
+}
+.support-button{
+    background-color: rgb(108, 108, 112);
+    color: rgb(255, 0, 0);
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+
+    
+}
